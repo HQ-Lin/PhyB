@@ -1,6 +1,6 @@
 # Regularized-Offline-Policy-Optimization-with-Posterior-Hybrid-Bayesian-Belief
 Official implementation of the ICML 2026 regular paper "Regularized Offline Policy Optimization with Posterior Hybrid Bayesian Belief"
-## Requirments
+## Requirements
 1. Linux is preferred.
 2. Python 3.7 or greater.
 3. Pytorch.
