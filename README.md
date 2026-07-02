@@ -15,3 +15,15 @@ python main.py --task=hopper-medium-v2
 ```
 
 Detailed configuration settings are available in `utilities/arguments.py`.
+
+## Citation
+```
+@inproceedings{
+lin2026regularized,
+title={Regularized Offline Policy Optimization with Posterior Hybrid Bayesian Belief},
+author={Hongqiang Lin and Pengfei Wang and Nenggan Zheng},
+booktitle={Forty-third International Conference on Machine Learning},
+year={2026},
+url={https://openreview.net/forum?id=v8BF1g3u8r}
+}
+```
